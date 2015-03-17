@@ -83,10 +83,10 @@ JB :
     provider : disqus
     disqus :
       short_name : kewoSK
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : kewoSK
+    # livefyre :
+    #   site_id : 123
+    # intensedebate :
+    #   account : kewoSK
     facebook :
       appid : 123
       num_posts: 5
