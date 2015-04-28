@@ -39,12 +39,12 @@ Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postr
 ### Mikrofón
   * je ma počuť iba vtedy, ak do mikrofónu hovorím, ak točím hlavou, otáčam za hlavou aj mikrofón (ak nemám headset)
   * ak mi držanie mikrofónu robí problém (napr. musím písať oboma rukami), požiadam organizátora o držiak(a) - tj. (ne)ľudský prvok držiaci mikrofón
-	* prejav prispôsobím možnostiam a schopnostiam publika (zohľadňujem okolitý hluk a rezonanciu) - nemeliem a artikulujem
+  * prejav prispôsobím možnostiam a schopnostiam publika (zohľadňujem okolitý hluk a rezonanciu) - nemeliem a artikulujem
 
 ### Komunikácia s publikom ###
   * ak je k dispozícii putovný mikrofón, snažím sa prijmäť pýtajúceho aby hovoril do mikrofónu
-	* ak putovný mikrofón k dispozícii nie je, po položení otázky z publika ju zopakujem a až následne odpovedám
-	* ak to má zmysel, lobujem za použitie [sli.do](https://www.sli.do/)
+  * ak putovný mikrofón k dispozícii nie je, po položení otázky z publika ju zopakujem a až následne odpovedám
+  * ak to má zmysel, lobujem za použitie [sli.do](https://www.sli.do/)
 
 ### "Sharing is caring" ###
   * ak si to môžem dovoliť/zoženiem zdrojovú prezentáciu
