@@ -4,7 +4,7 @@ categories: [know how, blog]
 tags: [know how, hinty, prezentácie]
 layout: post
 ---
-Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postrehov, ktoré podľa mňa vedia byť nápomocné ako prednášajúcemu, tak publiku, poprípade divákom záznamu. Rád privítam akékoľvek konštuktívne pripomienky.
+Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postrehov, ktoré podľa mňa vedia byť nápomocné ako prednášajúcemu, tak publiku, poprípade divákom záznamu. Post slúži (pre mňa) ako "checklist pre sklerotika", ak pomôže aj Vám, budem rád a rád privítam akékoľvek konštuktívne pripomienky.
 
 ## Organizačná stránka
   * potrebujem čas na otestovanie techniky, tzn. príjdem aspoň o 10 minút skôr, ako začína môj blok prednášok
