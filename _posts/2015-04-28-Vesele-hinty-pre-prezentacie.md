@@ -4,7 +4,7 @@ categories: [know how, blog]
 tags: [know how, hinty, prezentácie]
 layout: post
 ---
-Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postrehov, ktoré podľa mňa vedia byť nápomocné ako prednášajúcemu, tak publiku, poprípade divákom záznamu. Post slúži (pre mňa) ako "checklist pre sklerotika", ak pomôže aj Vám, budem rád a rád privítam akékoľvek konštuktívne pripomienky.
+Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postrehov, ktoré podľa mňa vedia byť nápomocné ako prednášajúcemu, tak publiku či divákom záznamu. Post slúži (pre mňa) ako "checklist pre sklerotika", ak pomôže aj Vám, budem rád a rád privítam akékoľvek konštuktívne pripomienky.
 
 ## Organizačná stránka
   * potrebujem čas na otestovanie techniky, tzn. príjdem aspoň o 10 minút skôr, ako začína môj blok prednášok
@@ -21,6 +21,7 @@ Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postr
 
 ## Koncepčné k prezentácii
   * najprv cool obsah, potom cool efekty
+  * jasne komunikovať **o čom** (obsah) a **prečo** (motivácia)
   * relaxačné vtipné vsuvky sú ok ale v primeranom množstve
   * **čím kompatibilnejšie, tým lepšie** (rieši kompatibilitu v prípdate "krízovej situácie")
     * PDFko s prezentáciou bez špeciálnych efektov a s embedovanými fontami je nad zlato
@@ -47,6 +48,8 @@ Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postr
 ### Komunikácia s publikom ###
   * ak je k dispozícii putovný mikrofón, snažím sa prijmäť pýtajúceho aby hovoril do mikrofónu
   * ak putovný mikrofón k dispozícii nie je, po položení otázky z publika ju zopakujem a až následne odpovedám
+  * ak je cieľom publikom niečo naučiť, checkpointy na pochopenie témy publikom sú na mieste
+    * kontrolné otázky, spätná väzba
   * ak to má zmysel, lobujem za použitie [sli.do](https://www.sli.do/)
 
 ### "Sharing is caring" ###
