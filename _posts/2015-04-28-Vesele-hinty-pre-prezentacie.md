@@ -21,6 +21,7 @@ Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postr
 
 ## Koncepčné k prezentácii
   * najprv cool obsah, potom cool efekty
+  * relaxačné vtipné vsuvky sú ok ale v primeranom množstve
   * **čím kompatibilnejšie, tým lepšie** (rieši kompatibilitu v prípdate "krízovej situácie")
     * PDFko s prezentáciou bez špeciálnych efektov a s embedovanými fontami je nad zlato
     * ak mám prezentáciu s videami, dávam pozor na štandardné kodeky, h264 sa javí ako všeobecne akceptovateľný, popr. niečo dostatočne staré, nech to vie prehrať vážne všetko
@@ -39,7 +40,9 @@ Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postr
 ### Mikrofón
   * je ma počuť iba vtedy, ak do mikrofónu hovorím, ak točím hlavou, otáčam za hlavou aj mikrofón (ak nemám headset)
   * ak mi držanie mikrofónu robí problém (napr. musím písať oboma rukami), požiadam organizátora o držiak(a) - tj. (ne)ľudský prvok držiaci mikrofón
-  * prejav prispôsobím možnostiam a schopnostiam publika (zohľadňujem okolitý hluk a rezonanciu) - nemeliem a artikulujem
+  * prejav prispôsobím možnostiam a schopnostiam publika (zohľadňujem okolitý hluk a rezonanciu) 
+    * nemeliem a artikulujem
+    * ak sa tam vyskytujú aj starší ľudia, ar-ti-ku-lu-jem!
 
 ### Komunikácia s publikom ###
   * ak je k dispozícii putovný mikrofón, snažím sa prijmäť pýtajúceho aby hovoril do mikrofónu
@@ -47,5 +50,5 @@ Nasledujúcich pár riadkov nepožralo všetku múdrosť sveta, je to pár postr
   * ak to má zmysel, lobujem za použitie [sli.do](https://www.sli.do/)
 
 ### "Sharing is caring" ###
-  * ak si to môžem dovoliť/zoženiem zdrojovú prezentáciu
-    * SlideShare, Google Documents a pod sú na zdieľanie určite lepšie ako iba nahrávaný záznam slajdov
+  * ak si to môžem dovoliť/zoženiem na zdieľanie okrem videa aj zdrojovú prezentáciu
+    * SlideShare, Google Documents a pod sú na zdieľanie určite lepšie ako iba nahrávaný záznam slajdov 
